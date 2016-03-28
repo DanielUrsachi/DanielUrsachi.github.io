@@ -22,19 +22,10 @@
  <img width="51"  src="/images/wiki-jr.png">
  <a href="http://en.wikipedia.org/wiki/Nintendo"> Wikipedia </a>
   <p> <?php
-      class Person {
-          
-      }
-      class Ninja extends Person {
-        // Add your code here...
-        const stealth  = "MAXIMUM";
-      }
-      // ...and here!
       
-      echo Ninja::stealth;
+      echo "aaalo!!!";
      
       ?></p>
  
 
   </body>
-}
